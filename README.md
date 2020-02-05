@@ -1,44 +1,22 @@
-# 01 HTML CSS Git: Code Refactor
+#Code Refactory
 
-One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
+##Description
 
-Your task is to refactor an existing webpage to make it accessible. An important rule to follow when working with someone else's code is the Scout Rule:
+    For this project I was given an existing website and asked to make it accessible and clean up the code. I edited the html to fix broken links and add 'alt' attributes to all of the images. I also consolidated the CSS file and added comments explaining what each section contains.
 
-> Always leave the code you are editing a little cleaner than you found it.
+    I learned a great deal about accessibility standards and how to apply them to my work. I also learned how to make text resize when the browser window is resized, as well as how to use descriptive comments.
 
-To impress clients, you should always go the extra mile and improve their codebase for long term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
+##Table of Contents
 
-## User Story
 
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
+##Installation
 
-## Acceptance Criteria
 
-```
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-```
+##Usage
 
-## Review
 
-You are required to submit the following for review:
+##Credits
 
-* The URL of the deployed application.
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+##License
 
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
