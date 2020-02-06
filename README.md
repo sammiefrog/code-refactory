@@ -1,5 +1,10 @@
 # **Code Refactory**
 
+## **Live Link**
+
+ https://sammiefrog.github.io/code-refactory/
+
+
 ## **Description**
 
     For this project I was given an existing website 
@@ -14,19 +19,22 @@
     learned how to make text resize when the browser 
     window is resized, as well as how to use 
     descriptive comments.
-    
-
-## **Table of Contents**
 
 
-## **Installation**
+
+
+## **Contributors**
+
+@sammiefrog 
 
 
 ## **Usage**
 
+This website is for a company called Horiseon, and their site is for search engine optimization. The page details the service they offer.
 
 ## **Credits**
 
+www.w3schools.com
 
 ## **License**
 
