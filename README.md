@@ -4,6 +4,10 @@
 
  https://sammiefrog.github.io/code-refactory/
 
+## **Contributors**
+
+@sammiefrog 
+
 
 ## **Description**
 
@@ -12,16 +16,13 @@ For this project I was given an existing website and asked to make it accessible
 I learned a great deal about accessibility standards and how to apply them to my work. I also learned how to make text resize when the browser window is resized, as well as how to use descriptive comments.
 
 
-
-
-## **Contributors**
-
-@sammiefrog 
+## **Technology Stack**
+* HTML, CSS
 
 
 ## **Usage**
 
-This website is for a company called Horiseon, and their site is for search engine optimization. The page details the service they offer.
+This page details the services offered by the company Horiseon, and the benefits to using their services.
 
 ## **Credits**
 
