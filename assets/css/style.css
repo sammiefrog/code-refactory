@@ -46,10 +46,6 @@ body {
     font-size: 1.75vw;
 }
 
-.nav div ul {
-    list-style-type: none;
-}
-
 .nav div ul li {
     /* allows link items to be displayed horizontally */
     display: inline-block;
@@ -66,7 +62,6 @@ p {
     /* typography */
     font-size: 16px;
 }
-
 
 .background-image {
     /* box model */
