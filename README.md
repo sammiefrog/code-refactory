@@ -21,6 +21,6 @@
 ## **License**
 
 ## **Contact**
-* ###**Name:** Sammantha Sasenick (@sammiefrog)
-* ###**Email:** [sammiefrog@live.com](sammiefrog@live.com)
-* ###**LinkedIn:** [www.linkedin.com/in/sammantha-sasenick412] (www.linkedin.com/in/sammantha-sasenick412)
+* #### **Name:** Sammantha Sasenick (@sammiefrog)
+* #### **Email:** [sammiefrog@live.com](sammiefrog@live.com)
+* #### **LinkedIn:** [www.linkedin.com/in/sammantha-sasenick412] (www.linkedin.com/in/sammantha-sasenick412)
